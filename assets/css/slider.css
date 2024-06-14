@@ -1,0 +1,23 @@
+.carousel-control-prev{
+  right:auto;
+}
+.carousel-item {
+  margin-left: 0;
+}
+.slider-img{
+object-fit: cover;
+}
+@media  screen and (max-width:576px) {
+  .slider-img{
+    height: 300px;
+    background-size: cover;
+  }
+  
+}
+@media  screen and (min-width:576px) and (max-width:960px){
+  .slider-img{
+    height: 300px;
+    background-size: cover;
+  }
+  
+}

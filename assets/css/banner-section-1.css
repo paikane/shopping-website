@@ -1,0 +1,7 @@
+.banner-section-1 .banner-img-hover {
+  overflow: hidden;
+}
+
+.banner-section-1 .banner-img-hover:hover a img {
+  transform: scale(1.01);
+}

@@ -1,0 +1,16 @@
+.login-btn{
+    background-color: #232f3e;
+    color: white;
+
+}
+.login-btn:hover{
+    background-color: #2d4a6c;
+    color: white;
+}
+.modal-footer-custom a{
+    font-size: 14px;
+    color: #3467a5;
+}
+.modal-footer-custom a:hover{
+    text-decoration: underline;
+}

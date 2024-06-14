@@ -1,0 +1,113 @@
+.costum-nav-tab {
+  direction: ltr;
+}
+.costum-nav-tab .nav-link {
+  border: none !important;
+  color: #5a5a5a;
+  font-size: 13px;
+}
+.costum-nav-tab .nav-link.active {
+  background-color: #232f3e;
+  color: #fff;
+  border: 1px solid #fff;
+}
+.costum-nav-tab .nav-link:focus {
+  border: none !important;
+}
+/* .offer-details{
+  flex: 0 0 50%;
+  max-width: 50%;
+} */
+.offer-details a {
+  color: #044492;
+  font-size: 18px;
+  display: inline-block;
+  margin-bottom: 5px;
+  font-weight: 450;
+}
+.offer-details .offer-rating i {
+  color: #dada46;
+  font-size: 14.5px;
+}
+.offer-price s {
+  font-size: 13.5px;
+  font-weight: 500;
+  margin-left: 12px;
+  vertical-align: 1px;
+}
+.offer-price span {
+  font-size: 15.5px;
+  font-weight: 500;
+  color: #333333;
+}
+.count-down-timer {
+  font-size: 14px;
+  color: #333333;
+}
+.count-down-timer p {
+  padding-right: 16px;
+}
+.count-down-timer p span {
+  text-decoration: underline red 2px;
+}
+.count-down-timer #demo span {
+  background-color: #efefef;
+  margin: 4px;
+  width: 28px;
+  height: 28px;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 100%;
+}
+#demo #days,
+#demo #hours,
+#demo #minutes,
+#demo #seconds {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.offer-expire-text {
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.offer-expire-text-inner {
+  font-size: 17px;
+  font-weight: bold;
+}
+.offer-product-image {
+  height: 190px;
+  width: 190px;
+  overflow: hidden;
+}
+/* .offer-product-image img{
+  width: 200px;
+} */
+.offer-product-image:hover .first-img,
+.offer-product-image:hover .second-img {
+  transform: translateY(-200px);
+}
+.offer-product-image .first-img,
+.offer-product-image .second-img {
+  transition: 0.5s ease;
+}
+.offer-tittle {
+  right: 0;
+  border-bottom: 3px solid red;
+  padding-bottom: 5px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.offer-box-shadow {
+  box-shadow: 0 0 1px 1px #efefef;
+}
+@media screen and (max-width: 768px) {
+  .offer-tittle {
+    font-size: 15px;
+    padding-bottom: 7px;
+  }
+}

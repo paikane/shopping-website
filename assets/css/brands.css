@@ -1,0 +1,14 @@
+.border-custom-brand {
+  border-right: 1.5px solid #d1d1d1;
+}
+.mt-brands {
+  margin-top: 80px !important;
+}
+.brands-tittle {
+  right: 22px;
+  top: -34.5px;
+  border-bottom: 3px solid red;
+  padding-bottom: 5px;
+  font-size: 18px;
+  font-weight: 400;
+}

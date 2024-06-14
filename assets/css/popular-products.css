@@ -1,0 +1,76 @@
+.p-title{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px !important;
+    padding-top: 20px;
+    font-weight: 450;
+
+}
+/* .toman{
+    position: absolute;
+    left: 45px;
+    bottom: 26px;
+} */
+.po-img{
+    max-width: 140px;
+
+}
+.po-bg{
+    background-color: #232f3e;
+    border-radius: 20px;
+    margin-top: 94px !important;
+}
+.custom-card{
+    border: none;
+    border-radius: 0;
+    /* width: 210px; */
+}
+.rounded-s-po{
+    border-radius: 8px 0 0 8px;
+}
+.p-po{
+    padding: 2px;
+}
+.po-offer{
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    margin-right: 7px;
+    margin-top: 10px;
+    color: #727272;
+}
+.badge-po-costum{
+line-height: 13px;
+}
+.owl-pagination{
+    display: none;
+}
+.owl-carouse:last-child(1){
+    border-radius: 0 5px 5px 0;
+}
+/* .owl-pagination{
+    position: relative;
+}
+.owl-buttons{
+    position: absolute;
+    right: -111px;
+    width: 120%;
+    display: flex;
+    bottom: 124px;
+} */
+.products-tittle{
+    right: 18px;
+top: -35px;
+    border-bottom: 3px solid red;
+    padding-bottom: 5px;
+    font-size: 18px;
+    font-weight: 400;
+}
+@media screen and (max-width:768px) {
+    .products-tittle{
+        font-size: 15px;
+        top: -30px;
+    }
+    
+}

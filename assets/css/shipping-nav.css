@@ -1,0 +1,11 @@
+.shipping-costum p{
+    font-size: 12px;
+    text-align: center;
+}
+.shipping-rand-end{
+    border-radius: 0 10px 10px 0;
+
+}
+.shipping-rand-start{
+border-radius: 10px 0 0 10px;
+}

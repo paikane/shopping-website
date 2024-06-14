@@ -1,0 +1,42 @@
+.breadcrumb-item + .breadcrumb-item::before {
+  float: right;
+}
+.custom-breadcrumb {
+  margin: 7px;
+  font-size: 14px;
+}
+.product-page-rate {
+  color: gold;
+  font-size: 14px;
+}
+.product-page-rate span {
+  color: rgb(71, 71, 71);
+  font-size: 13px;
+}
+.product-page-tittle {
+  font-size: 21px;
+}
+p.describe {
+  font-size: 14px;
+  line-height: 34px;
+}
+.border-end-custom {
+  border-right: 1.5px solid #efefef !important;
+}
+.product-page-tittle .fa-bell {
+  color: rgb(232, 204, 45);
+}
+.product-page-tittle .fa-heart {
+  color: rgb(206, 36, 36);
+}
+.product-page-tittle span i.fa-share-nodes {
+  color: #6f6f6f;
+}
+.product-future {
+  font-size: 17px;
+  padding-right: 14px;
+}
+.circle-size {
+  font-size: 6px;
+  color: rgb(111, 123, 212);
+}

@@ -1,0 +1,122 @@
+.custom-product-description .nav-link.active {
+  border-top: 2px solid #304967;
+}
+.custom-product-description .nav-link {
+  font-size: 14px;
+  color: rgb(161, 161, 161);
+}
+.custom-product-description .nav-link:hover {
+  border-color: transparent !important;
+}
+.custom-product-description .nav-link.active:hover {
+  border-top: 2px solid #304967 !important ;
+  border-right: 1px solid #efefef !important;
+  border-left: 1px solid #efefef !important;
+}
+.tab-pane-tittle {
+  font-size: 19px;
+  border-bottom: 2px solid #304967;
+  color: #9a9a9a;
+}
+.tab-pane-text {
+  font-size: 14px;
+  line-height: 2;
+}
+.products-desc-step li {
+  border-right: 1px solid #304967;
+}
+.products-desc-step li i {
+  top: -4px;
+  right: -11px;
+  color: rgb(25, 105, 224);
+  font-size: 20px;
+}
+.product-img-wrapper {
+  max-width: 550px;
+  margin: 0 auto;
+}
+.key {
+  flex: 0 0 20%;
+  background-color: #f8f8f8;
+  margin-right: 10px;
+  height: 40px;
+  font-size: 13.5px;
+}
+.value {
+  flex: 0 0 75%;
+  background-color: #f8f8f8;
+  margin-right: 15px;
+  height: 40px;
+  font-size: 13.5px;
+}
+.detail-tittle {
+  font-size: 14px;
+}
+.detail-tittle i {
+  vertical-align: -2px;
+}
+.add-comment P:first-child {
+  font-size: 15px;
+  color: #767676;
+}
+.add-comment P:nth-child(2) {
+  font-size: 14px;
+  color: #343434;
+  line-height: 2;
+}
+.add-comment i {
+  margin: 0 5px 0 10px;
+  vertical-align: -2px;
+}
+.custom-person-comment-detail {
+  font-size: 12px;
+  /* width: 18%; */
+  text-align: center;
+  margin-right: 50px;
+}
+.custom-person-comment-detail span {
+  color: #a2a2a2;
+  font-weight: 300;
+}
+.custom-person-comment-detail span:nth-child(3) {
+  background-color: #e6ffe9;
+}
+.comment-bar {
+  font-size: 19px;
+  color: #a2a2a2;
+}
+.suggest-comment p {
+  font-size: 13px;
+}
+.comment-interaction span {
+  font-size: 13px;
+  color: #a2a2a2;
+  margin-right: 15px;
+}
+.comment-interaction i {
+  font-size: 17px;
+  cursor: pointer;
+}
+.comment-interaction .like-comment:hover {
+  color: green;
+}
+.comment-interaction .dislike-comment:hover {
+  color: red;
+}
+.comment-tittle {
+  font-size: 14px;
+  color: #686868;
+}
+.comment-tittle i {
+  font-size: 18px;
+}
+.send-comment-btn button {
+  font-size: 13px;
+  padding: 6px 15px;
+  float: left;
+  margin-left: 20px;
+  transition: 0.5s ease;
+}
+.send-comment-btn button:hover {
+  background-color: #33547b;
+}

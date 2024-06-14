@@ -1,0 +1,89 @@
+.bg-top-nav {
+  background-color: #232f3e;
+}
+.custom-top-nav,
+.bg-top-nav p {
+  font-size: 12px;
+}
+.custom-top-nav a {
+  padding: 10px;
+}
+.input-group input::placeholder {
+  font-size: 12px;
+}
+.border-coustom {
+  border-left: 1px solid #4a4a4a;
+}
+.shopping-icon i {
+  vertical-align: -2px;
+  font-size: 17px;
+}
+.shopping-icon span {
+  font-size: 14.5px;
+}
+.custom-top-dropdown-toggle::after {
+  vertical-align: -1px;
+}
+.basket a img {
+  width: 60px;
+  height: 60px;
+}
+.basket ul {
+  font-size: 11px;
+}
+.btn-close-size {
+  font-size: 11px;
+}
+.logo {
+  position: absolute;
+  right: 0;
+  top: -33px;
+}
+.custom-navbar-nav {
+  font-size: 14.5px;
+}
+.nav-item-hover:hover {
+  color: #c7c7c7 !important;
+}
+.custom-navbar-nav .nav-item,
+.custom-nav {
+  position: unset;
+}
+.dropdown-image img {
+  /* width: 150px;
+  height: 150px; */
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.custom-dropdown-item {
+  font-size: 13px;
+  transition: 0.5s ease;
+}
+.custom-dropdown-item i {
+  font-size: 11px;
+  vertical-align: -0.5px;
+}
+.custom-dropdown-item:hover {
+  background-color: transparent !important;
+  color: #1a3e6a !important;
+  margin-right: 10px;
+}
+.costum-badge {
+  right: 173px;
+  top: 8px;
+}
+@media screen and (max-width: 768px) {
+  .sm-nav {
+    margin-top: -150px;
+  }
+  .logo {
+    top: -122px;
+  }
+  .sm-sabad {
+    margin-top: -35px;
+  }
+  .input-group input::placeholder {
+    font-size: 9px;
+  }
+}
