@@ -5,8 +5,7 @@
 
 ## Description
 
-This site is an exercise project that was developed with html, css, bootstrap and a number of libraries, which is fully responsive, and in addition to the index page, a product page has also been developed, but it should be noted that the product page is not responsive.
-
+This site is an exercise project developed with html, css, bootstrap and a number of libraries, which is fully responsive, although most of the styles are styled with bootstrap and css is used only to customize the styles and in addition to the page Index A product page has also been developed, but it should be noted that the product page is not responsive
 <br/>
 
 ## Built With
