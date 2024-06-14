@@ -19,7 +19,6 @@ This site is an exercise project that was developed with html, css, bootstrap an
 - owl carousel library (use this library for header slider)
 - zoomy library (use this library for product page)
 
-- خم
 
 
 ## Live Demo
