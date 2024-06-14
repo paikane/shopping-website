@@ -136,4 +136,10 @@
     height: 154px;
     width: 121px;
   }
+  .second-img{
+    display: none;
+  }
+  .header-searchbar::placeholder{
+    font-size: 0 !important;
+  }
 }
