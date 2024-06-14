@@ -111,3 +111,29 @@
     padding-bottom: 7px;
   }
 }
+
+@media screen and (max-width:576px) {
+  .offer-details a{
+    font-size: 15px;
+  }
+  .offer-price{
+    display: flex;
+    flex-direction: column;
+  }
+  .offer-price s{
+    font-size: 14px
+  }
+  .offer-price span{
+    font-size: 16px;
+  }
+  .count-down-timer p{
+    font-size: 11px;
+  }
+  #special-offer{
+    bottom: 40px;
+  }
+  .offer-product-image{
+    height: 154px;
+    width: 121px;
+  }
+}
